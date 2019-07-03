@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.todos-box {
+  background: #fff;
+  margin: 5rem 10rem 45rem 11rem;
+  padding: 1.25em 9.75rem;
+  width: 75%;
+  position: absolute;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 25px 50px 0 rgba(0, 0, 0, 0.1);
+}
+
+input {
+  padding: 6px;
+}
+
+.todo-container {
+  border: 1px solid #ccc;
+  padding: 10px;
+  margin: 10px 15px;
+  border-radius: 5px;
+}
