@@ -18,6 +18,7 @@
 
 input {
   padding: 6px;
+  width: 50%;
 }
 
 .todo-container {
